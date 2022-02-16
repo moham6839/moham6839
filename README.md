@@ -4,8 +4,7 @@
 
 
 
-- 🔭 I’m currently working on improving the skills I learned at Flatiron School.
-- 🌱 I’m currently learning SQL and AWS.
+- 🔭 I’m currently working on improving the skills I learned at Flatiron School, such as SQL and AWS.
 - 👀 I’m looking to collaborate on a variety of machine learning projects.
 - 👐 Open to working with others on finding solutions that impact society. 
 - 💬 Ask me about my favorite NBA basketball team 🏀
