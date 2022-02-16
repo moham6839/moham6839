@@ -13,4 +13,4 @@
 
 # Connect with Me Here:
 
-<img src="{https://www.linkedin.com/in/mohamedhassannyc/}" />
+![image]({https://www.linkedin.com/in/mohamedhassannyc/})
