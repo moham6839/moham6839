@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello there 👋
 
-<!--
-**moham6839/moham6839** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My name is Mohamed Hassan**. I am a recent graduate from the Data Science program at Flatiron School. I'm currently a Train Operator in New York City 🚆 🗽. Previously worked for the FDNY as an EMT 🚑. I have a passion for problem solving, using data and math to find solutions. I'm looking to further refine my data science skills, while also creating and contributing to projects that are informative and helpful to others.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on improving the skills I learned at Flatiron School.
+- 🌱 I’m currently learning SQL and AWS.
+- 👀 I’m looking to collaborate on a variety of machine learning projects.
+- 👐 Open to working with others on finding solutions that impact society. 
+- 💬 Ask me about my favorite NBA basketball team 🏀
+- ⚡ Fun fact: I have 3 cats 😸
+
+# Connect with Me Here:
+
+[LinkedIn](https://www.linkedin.com/in/mohamedhassannyc/)
+
+[GitHub](https://github.com/moham6839)
+
+[Blog](https://moe9386.medium.com/)
