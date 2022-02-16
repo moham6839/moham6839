@@ -13,8 +13,4 @@
 
 # Connect with Me Here:
 
-![LinkedIn](https://www.linkedin.com/in/mohamedhassannyc/)
-
-![GitHub](https://github.com/moham6839)
-
-![Blog](https://moe9386.medium.com/)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
