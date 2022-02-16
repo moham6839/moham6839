@@ -13,8 +13,8 @@
 
 # Connect with Me Here:
 
-[LinkedIn](https://www.linkedin.com/in/mohamedhassannyc/)
+! [LinkedIn](https://www.linkedin.com/in/mohamedhassannyc/)
 
-[GitHub](https://github.com/moham6839)
+! [GitHub](https://github.com/moham6839)
 
-[Blog](https://moe9386.medium.com/)
+! [Blog](https://moe9386.medium.com/)
