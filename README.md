@@ -13,4 +13,4 @@
 
 # Connect with Me Here:
 
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+<img src="{https://www.linkedin.com/in/mohamedhassannyc/}" />
