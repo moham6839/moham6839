@@ -1,11 +1,11 @@
 # Hello there 👋
 
-**My name is Mohamed Hassan**. I am a recent graduate from the Data Science program at Flatiron School. I'm currently a Train Operator in New York City 🚆 🗽. Previously worked for the FDNY as an EMT 🚑. I have a passion for problem solving, using data and math to find solutions. I'm looking to further refine my data science skills, while also creating and contributing to projects that are informative and helpful to others.
+**My name is Mohamed Hassan**. I am a Data Scientist trained in using Python programming language and Machine Learning algorithms, searching and discovering solutions to complex issues. I'm currently working as a Train Operator in New York City 🚆 🗽. Previously worked for the FDNY as an EMT 🚑. I have a passion for problem solving, using data and math to find solutions. I'm looking to further refine my Data Science skills, while also creating and contributing to projects that are informative and helpful to others.
 
 
 
-- 🔭 I’m currently working on improving the skills I learned at Flatiron School, such as SQL and AWS.
-- 👀 I’m looking to collaborate on a variety of machine learning projects.
+- 🔭 I’m currently enrolled in a course learning AWS Cloud Technical Essentials, and continuing to learn new Data Science skills.
+- 👀 I’m looking to collaborate on a variety of Machine Learning projects.
 - 👐 Open to working with others on finding solutions that impact society. 
 - 💬 Ask me about my favorite NBA basketball team 🏀
 - ⚡ Fun fact: I have 3 cats 😸
