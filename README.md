@@ -8,7 +8,7 @@
 - 👀 I’m looking to collaborate on a variety of Machine Learning projects.
 - 👐 Open to working with others on finding solutions that impact society. 
 - 💬 Ask me about my favorite NBA basketball team 🏀
-- ⚡ Fun fact: I have 3 cats 😸
+- ⚡ Fun fact: I have 4 cats 😸
 
 # Connect with Me Here:
 
