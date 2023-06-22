@@ -1,10 +1,9 @@
 # Hello there 👋
 
-**My name is Mohamed Hassan**. I am a Data Scientist trained in using Python programming language and Machine Learning algorithms, searching and discovering solutions to complex issues. I'm currently working as a Train Operator in New York City 🚆 🗽. Previously worked for the FDNY as an EMT 🚑. I have a passion for problem solving, using data and math to find solutions. I'm looking to further refine my Data Science skills, while also creating and contributing to projects that are informative and helpful to others.
+**My name is Mohamed Hassan**. I am currently a Data Science Graduate Student at CUNY School of Professional Studies, trained in using Python, R, and SQL. Previously, I completed a Data Science program at Flatiron School. I consider the work I've created passion projects, focused on various areas of basketball to topics that are important to public health and transportation. I am also a Train Operator for the City of New York, getting people where they have to go. I previously worked for the FDNY as an EMT/911 Dispatcher 🚑. I have a passion for problem solving, using data and math to discover impactful solutions to complex problems.
 
 
 
-- 🔭 I’m currently enrolled in a course learning AWS Cloud Technical Essentials, and continuing to learn new Data Science skills.
 - 👀 I’m looking to collaborate on a variety of Machine Learning projects.
 - 👐 Open to working with others on finding solutions that impact society. 
 - 💬 Ask me about my favorite NBA basketball team 🏀
