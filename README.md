@@ -1,6 +1,6 @@
 # Hello there 👋
 
-**My name is Mohamed Hassan**. I am currently a Data Science Graduate Student at CUNY School of Professional Studies, trained in using Python, R, and SQL. Previously, I completed a Data Science program at Flatiron School. I consider the work I've created passion projects, focused on various areas of basketball to topics that are important to public health and transportation. I am also a Train Operator for the City of New York, getting people where they have to go. I previously worked for the FDNY as an EMT/911 Dispatcher 🚑. I have a passion for problem solving, using data and math to discover impactful solutions to complex problems.
+**My name is Mohamed Hassan**. I recently completed a Data Science Master's program at CUNY School of Professional Studies, trained in using Python, R, and SQL. Previously, I completed a Data Science bootcamp program at Flatiron School. I consider the work I've created passion projects, focused on various areas of basketball and topics that are important to public health and transportation. I am also a Train Operator for the City of New York, getting people where they have to go. I previously worked for the FDNY as an EMT/911 Dispatcher 🚑. I have a passion for problem solving, using data and math to discover impactful solutions to complex problems.
 
 
 
